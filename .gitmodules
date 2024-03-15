@@ -1,0 +1,3 @@
+[submodule "charts/mailcatcher-helm"]
+	path = charts/mailcatcher-helm
+	url = https://github.com/sboardwell/mailcatcher-helm.git
